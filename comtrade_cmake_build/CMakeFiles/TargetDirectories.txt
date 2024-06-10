@@ -1,0 +1,3 @@
+C:/Users/airat/source/repos/COMTRADE-reader/comtrade_cmake_build/CMakeFiles/comtrade.dir
+C:/Users/airat/source/repos/COMTRADE-reader/comtrade_cmake_build/CMakeFiles/ALL_BUILD.dir
+C:/Users/airat/source/repos/COMTRADE-reader/comtrade_cmake_build/CMakeFiles/ZERO_CHECK.dir

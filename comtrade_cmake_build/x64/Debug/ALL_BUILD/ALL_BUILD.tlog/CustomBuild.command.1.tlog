@@ -1,0 +1,10 @@
+^C:\USERS\AIRAT\SOURCE\REPOS\COMTRADE-READER\COMTRADE_READER\CMAKELISTS.TXT
+setlocal
+C:\dev\mingw64\bin\cmake.exe -SC:/Users/airat/source/repos/COMTRADE-reader/COMTRADE_reader -BC:/Users/airat/source/repos/COMTRADE-reader/comtrade_cmake_build --check-stamp-file C:/Users/airat/source/repos/COMTRADE-reader/comtrade_cmake_build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
