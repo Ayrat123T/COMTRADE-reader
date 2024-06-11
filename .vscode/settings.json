@@ -85,5 +85,6 @@
         "string_view": "cpp",
         "numbers": "cpp",
         "set": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "${workspaceFolder}/COMTRADE_reader"
 }
