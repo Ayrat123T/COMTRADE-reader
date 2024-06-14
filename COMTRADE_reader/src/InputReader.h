@@ -37,8 +37,7 @@ namespace Comtrade_IO {
 
 namespace detail_comtrade_IO {
 
-	// удалять пробелы?
-	enum REMOVE_SPACE_MODE {
+	enum REMOVE_SPACE_MODE { // удалять пробелы?
 		ON, // да
 		OFF // нет
 	};
